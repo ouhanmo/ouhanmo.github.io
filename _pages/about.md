@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Han-Mo Ou"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Page Under Construction
+### Site Under Construction
 
 I am currently a Ph.D. candidate in the Electrical and Computer Engineering (ECE) department at the University of Illinois at Urbana-Champaign (UIUC), advised by Prof. Naresh Shanbhag at the Coordinated Science Lab (CSL).
 Previously, I received my bachelor's degree from National Taiwan University (NTU), and my master's from UIUC. 
