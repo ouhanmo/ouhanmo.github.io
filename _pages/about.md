@@ -1,11 +1,18 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Han-Mo Ou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Page Under Construction
+
+I am currently a Ph.D. candidate in the Electrical and Computer Engineering (ECE) department at the University of Illinois at Urbana-Champaign (UIUC), advised by Prof. Naresh Shanbhag at the Coordinated Science Lab (CSL).
+Previously, I received my bachelor's degree from National Taiwan University (NTU), and my master's from UIUC. 
+My research interests lie in VLSI for signal processing and communications, with a focus on developing efficient and high-performance circuits for communication systems.
+I was born and raised in the warm and beautiful port city of Kaohsiung, but spent a part of my childhood living in London, UK.
 
 
 

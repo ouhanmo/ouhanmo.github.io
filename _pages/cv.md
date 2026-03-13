@@ -17,7 +17,16 @@ Education
 
 Work experience
 ======
-
+* Fall 2020 - Present: Research Assistant
+  * Coordinated Science Lab, University of Illinois
+* Summer 2025: Memory Research Intern
+  * Start-up 
+* Summer 2024: Quantum Hardware Developer Intern
+  * IBM Research
+* Fall 2022: Teaching Assistant
+  * ECE 498NSU/NSG, University of Illinois
+* Summer 2019: Software Engineering Intern
+  * Cadence Design Systems
   
 <!-- Skills
 ======
