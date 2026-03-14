@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+{% capture pubs %}
+
 ## Journal Articles
 
 <div class="pub">
@@ -81,3 +83,7 @@ H. Ou, A. Author, B. Author
 <a class="pub-button" href="/files/bch_decoder.pdf">PDF</a>
 
 </div>
+
+{% endcapture %}
+
+{{ pubs | markdownify }}
