@@ -41,3 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.pub {
+  margin-bottom: 1.5em;
+}
+
+.pub-button {
+  display: inline-block;
+  margin-right: 8px;
+  padding: 3px 8px;
+  font-size: 0.8em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.pub-button:hover {
+  background: #f5f5f5;
+}
