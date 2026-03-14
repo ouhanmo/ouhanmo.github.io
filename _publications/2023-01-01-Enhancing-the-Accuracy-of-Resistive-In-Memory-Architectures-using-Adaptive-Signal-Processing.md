@@ -1,6 +1,7 @@
 ---
 title: "Enhancing the Accuracy of Resistive In-Memory Architectures using Adaptive Signal Processing"
 collection: publications
+category: conference
 permalink: /publication/2023-01-01-Enhancing-the-Accuracy-of-Resistive-In-Memory-Architectures-using-Adaptive-Signal-Processing
 date: 2023-01-01
 venue: 'In the proceedings of ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
