@@ -1,6 +1,7 @@
 ---
 title: "Compute SNR-boosted 22 nm MRAM-based In-memory Computing Macro using Statistical Error Compensation"
 collection: publications
+category: conference
 permalink: /publication/2023-01-01-Compute-SNR-boosted-22-nm-MRAM-based-In-memory-Computing-Macro-using-Statistical-Error-Compensation
 date: 2023-01-01
 venue: 'In the proceedings of ESSCIRC 2023- IEEE 49th European Solid State Circuits Conference (ESSCIRC)'

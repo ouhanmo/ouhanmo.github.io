@@ -1,6 +1,7 @@
 ---
 title: "A Neural Network-Aided Viterbi Receiver for Joint Equalization and Decoding"
 collection: publications
+category: conference
 permalink: /publication/2020-01-01-A-Neural-Network-Aided-Viterbi-Receiver-for-Joint-Equalization-and-Decoding
 date: 2020-01-01
 venue: 'In the proceedings of 2020 IEEE 30th International Workshop on Machine Learning for Signal Processing (MLSP)'

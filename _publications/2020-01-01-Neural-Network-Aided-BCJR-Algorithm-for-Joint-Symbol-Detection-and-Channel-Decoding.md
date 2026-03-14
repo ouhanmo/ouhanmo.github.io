@@ -1,6 +1,7 @@
 ---
 title: "Neural Network-Aided BCJR Algorithm for Joint Symbol Detection and Channel Decoding"
 collection: publications
+category: conference
 permalink: /publication/2020-01-01-Neural-Network-Aided-BCJR-Algorithm-for-Joint-Symbol-Detection-and-Channel-Decoding
 date: 2020-01-01
 venue: 'In the proceedings of 2020 IEEE Workshop on Signal Processing Systems (SiPS)'

@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="{{ base_path }}/files/CV_Ou_Hanmo_2026.pdf" type="application/pdf" width="100%" height="900px">
+<p>
+<a href="{{ base_path }}/files/CV_Ou_Hanmo_2026.pdf">Download CV (PDF)</a>
+</p>
+
+<!-- 
 Education
 ======
 * Ph.D in Electircal and Computer Engineering, University of Illinois Urbana-Champaign, 2026 (expected)
@@ -27,7 +33,7 @@ Work experience
   * ECE 498NSU/NSG, University of Illinois
 * Summer 2019: Software Engineering Intern
   * Cadence Design Systems
-  
+   -->
 <!-- Skills
 ======
 * Skill 1
