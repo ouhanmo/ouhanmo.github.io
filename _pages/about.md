@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Site Under Construction
 
 I am currently a Ph.D. candidate in the Electrical and Computer Engineering (ECE) department at the University of Illinois at Urbana-Champaign (UIUC), advised by Prof. Naresh Shanbhag at the Coordinated Science Lab (CSL).
 Previously, I received my bachelor's degree from National Taiwan University (NTU), and my master's from UIUC. 
