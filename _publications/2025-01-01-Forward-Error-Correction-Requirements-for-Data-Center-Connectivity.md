@@ -1,6 +1,7 @@
 ---
 title: "Forward Error Correction Requirements for Data Center Connectivity"
 collection: publications
+category: conference
 permalink: /publication/2025-01-01-Forward-Error-Correction-Requirements-for-Data-Center-Connectivity
 date: 2025-01-01
 venue: 'In the proceedings of 2025 IEEE Custom Integrated Circuits Conference (CICC)'

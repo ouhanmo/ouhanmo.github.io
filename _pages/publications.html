@@ -34,6 +34,25 @@ author_profile: true
 
  -->
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
+{% endfor %} -->
+
+<h2>Journal Articles</h2>
+<hr>
+
+{% for post in site.publications reversed %}
+  {% if post.category == "journal" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
+<h2>Conference Papers</h2>
+<hr>
+
+{% for post in site.publications reversed %}
+  {% if post.category == "conference" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

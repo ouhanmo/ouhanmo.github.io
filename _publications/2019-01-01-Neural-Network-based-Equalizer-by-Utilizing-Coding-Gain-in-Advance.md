@@ -1,6 +1,7 @@
 ---
 title: "Neural Network-based Equalizer by Utilizing Coding Gain in Advance"
 collection: publications
+category: conference
 permalink: /publication/2019-01-01-Neural-Network-based-Equalizer-by-Utilizing-Coding-Gain-in-Advance
 date: 2019-01-01
 venue: 'In the proceedings of 2019 IEEE Global Conference on Signal and Information Processing (GlobalSIP)'
